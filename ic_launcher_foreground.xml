@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Crisp white M monogram -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,74 L28,34 L40,34 L54,56 L68,34 L80,34 L80,74 L70,74 L70,50 L54,73 L38,50 L38,74 Z" />
+    <!-- Gold cinematic arc across the M -->
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M24,69 C39,47 61,39 85,37 C64,44 43,53 28,73 Z" />
+    <!-- Gold Play badge -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M65,61 L78,68 L65,75 Z" />
+</vector>

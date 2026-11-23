@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="meesam_black">#07080B</color>
+    <color name="meesam_surface">#10131C</color>
+    <color name="meesam_gold">#D4AF37</color>
+    <color name="meesam_gold_bright">#E5C158</color>
+    <color name="meesam_purple">#7C3AED</color>
+    <color name="meesam_text">#F5F2EA</color>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MeesamTech" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/meesam_black</item>
+        <item name="android:colorBackground">@color/meesam_black</item>
+        <item name="android:statusBarColor">@color/meesam_black</item>
+        <item name="android:navigationBarColor">@color/meesam_black</item>
+        <item name="colorPrimary">@color/meesam_gold</item>
+        <item name="colorPrimaryDark">@color/meesam_black</item>
+        <item name="colorAccent">@color/meesam_purple</item>
+    </style>
+</resources>
