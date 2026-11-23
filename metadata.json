@@ -1,0 +1,6 @@
+{
+  "name": "MEESAM TECH",
+  "description": "A clean, mobile-friendly video editing web app for uploading, cutting, trimming, previewing, and exporting videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
